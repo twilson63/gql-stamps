@@ -1,0 +1,13 @@
+{
+  "name": "gql-stamps",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/twilson63/gql-stamps.git",
+  "author": "Tom Wilson <tom@hyper.io>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.1.0",
+    "ramda": "^0.28.0"
+  }
+}
